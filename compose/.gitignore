@@ -1,2 +1,3 @@
-# Ignore everything under lib folder, not elsewhere
+# Ignore everything under lib and ecs-servicediscovery folder, not elsewhere
 lib
+ecs-servicediscovery
